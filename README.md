@@ -10,7 +10,7 @@ Java, Spring 기반으로 프로젝트 경험과 자동화, 안정적 운영 경
 - **4학년 ~ 현재**:
     - Notion 데이터 GitHub 백업 오픈소스 개발 (one write, two use)
     - 하드코딩 데이터 → 관계형 DB 리팩토링 & 데이터 마이그레이션
-    - 여행 루틴 공유 서비스 API 개발 및 공용 DB 구축
+    - 여행 일정 공유 서비스 API 개발 및 공용 DB 구축
     - 무인 매장 이상행동 감지 시스템 개발
 - **3학년**:
     - 바코드 기반 주류 조회·리뷰 시스템 설계 및 백엔드 개발
@@ -81,15 +81,15 @@ Java, Spring 기반으로 프로젝트 경험과 자동화, 안정적 운영 경
 ## 🎯 그 외 활동
 
 ### 📜 자격증
-- **리눅스마스터 2급**
-- **SQL 개발자 (SQLD)**
-- **자바 국제 자격증 (OCAJP: Oracle Certified Associate Java Programmer)**
-- **정보처리기사** (2024.07 필기 합격)
-- **AWS Certified Cloud Practitioner**
-- **마이크로소프트 SC-900** (보안 · 규정 준수 · 신원 관리 기본)
-- **마이크로소프트 AZ-900** (Azure 기초)
-- **마이크로소프트 AI-900** (Azure AI 기초)
-- **OPIC IL (Intermediate Low)**
+- 리눅스마스터 2급
+- SQL 개발자 (SQLD)
+- 자바 국제 자격증 (OCAJP: Oracle Certified Associate Java Programmer)
+- 정보처리기사 (2024.07 필기 합격)
+- AWS Certified Cloud Practitioner
+- 마이크로소프트 SC-900 (보안 · 규정 준수 · 신원 관리 기본)
+- 마이크로소프트 AZ-900 (Azure 기초)
+- 마이크로소프트 AI-900 (Azure AI 기초)
+- OPIC IL (Intermediate Low)
 
 ---
 
