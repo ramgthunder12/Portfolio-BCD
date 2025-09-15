@@ -24,7 +24,7 @@ Java, Spring 기반으로 프로젝트 경험과 자동화, 안정적 운영 경
 
 ## 💡 역량
 
-### 1. Notion → GitHub 자동화 시스템 (운영 자동화 경험)
+### 1. [Notion → GitHub 자동화 시스템](https://github.com/ramgthunder12/notion-to-github) (운영 자동화 경험)
 
 - **문제 상황**: 학습 기록을 Notion과 GitHub 양쪽에 작성해야 해서 동일한 내용을 2번 기록해야 하는 비효율 발생
 - **해결 방법**:
@@ -38,7 +38,7 @@ Java, Spring 기반으로 프로젝트 경험과 자동화, 안정적 운영 경
 
 
 
-### 2. 첫술 프로젝트 – 주류 리뷰 앱 (DB 구조 리팩토링)
+### 2. [첫술 프로젝트](https://github.com/ramgthunder12/Portfolio-BCD/edit/main/README.md) – 주류 리뷰 앱 (DB 구조 리팩토링)
 
 - **문제 상황**: 주류의 맛/향 데이터가 문자열로 하드코딩되어 있어 새로운 맛/향 추가 시 매번 코드 수정 필요 → 유지보수성과 확장성 저하
 - **해결 방법**:
@@ -52,7 +52,7 @@ Java, Spring 기반으로 프로젝트 경험과 자동화, 안정적 운영 경
 
 
 
-### 3. 무인 공간 대여 시스템 (문서화 & API 설계 경험)
+### 3. [무인 공간 대여 시스템](https://github.com/ramgthunder12/SRUS) (문서화 & API 설계 경험)
 
 - **문제 상황**: 프로젝트 초기, 요구사항 정의와 용어 기준이 불분명해 개발자마다 다른 해석 발생 → 일정 지연 위험
 - **해결 방법**:
@@ -66,7 +66,7 @@ Java, Spring 기반으로 프로젝트 경험과 자동화, 안정적 운영 경
 
 
 
-### 4. 여행 일정 공유 앱 (공용 DB 구축 경험)
+### 4. [여행 일정 공유 앱](https://github.com/sunmoon-newbins/with) (공용 DB 구축 경험)
 
 - **문제 상황**: 해커톤 개발 중 로컬 DB 사용으로 데이터 일관성 문제, 기능 병합 충돌, 협업 지연 발생
 - **해결 방법**:
@@ -93,10 +93,10 @@ Java, Spring 기반으로 프로젝트 경험과 자동화, 안정적 운영 경
 
 ---
 
-### 📚 활동
+### 📚 [활동](https://astonishing-archer-8d6.notion.site/PORTFOLI-13122086c5a080418e26d34cc635d060)
 - 전자정부프레임워크 과정 수료
-- MS 생성형 AI 파이프라인 (미수료)
-- MS Azure Data & AI 워크숍 수료
+- MicroSoft 생성형 AI 파이프라인 (미수료)
+- MicroSoft Azure Data & AI 워크숍 수료
 - 메가존 멘토링 수료
 - SW 몰입형 교육 수료
 
