@@ -18,7 +18,6 @@ Java, Spring 기반으로 프로젝트 경험과 자동화, 안정적 운영 경
 - **2학년**:
     - 공간대여 무인 시스템 개발: API 설계 및 **13종 문서 작성**
 
-운영 자동화, DB구조 리팩토링, 문서화, API 설계, 공용 DB 구축
 
 
 
@@ -95,7 +94,7 @@ Java, Spring 기반으로 프로젝트 경험과 자동화, 안정적 운영 경
 
 ### 📚 [활동](https://astonishing-archer-8d6.notion.site/PORTFOLI-13122086c5a080418e26d34cc635d060)
 - 전자정부프레임워크 과정 수료
-- MicroSoft 생성형 AI 파이프라인 (미수료)
+- MicroSoft Copilot Stack으로 지능형 애플리케이션 개발하기 (미수료)
 - MicroSoft Azure Data & AI 워크숍 수료
 - 메가존 멘토링 수료
 - SW 몰입형 교육 수료
