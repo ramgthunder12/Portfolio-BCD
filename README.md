@@ -23,7 +23,9 @@ Java, Spring 기반으로 프로젝트 경험과 자동화, 안정적 운영 경
 
 ## 💡 역량
 
-### 1. [Notion → GitHub 자동화 시스템](https://github.com/ramgthunder12/notion-to-github/blob/main/README.md) (운영 자동화 경험)
+### 1. 🔄[Notion → GitHub 자동화 시스템](https://github.com/ramgthunder12/notion-to-github/blob/main/README.md) (운영 자동화 경험)
+
+> Notion Database 내용을 자동으로 Markdown 변환해 GitHub에 백업하는 운영 자동화 도구
 
 - **문제 상황**: 학습 기록을 Notion과 GitHub 양쪽에 작성해야 해서 동일한 내용을 2번 기록해야 하는 비효율 발생
 - **해결 방법**:
@@ -37,7 +39,9 @@ Java, Spring 기반으로 프로젝트 경험과 자동화, 안정적 운영 경
 
 
 
-### 2. [첫술 프로젝트](https://github.com/ramgthunder12/mobile_project_backend/blob/main/README.md) – 주류 리뷰 앱 (DB 구조 리팩토링)
+### 2. 🍺[주류 평가 및 리뷰 앱](https://github.com/ramgthunder12/mobile_project_backend/blob/main/README.md) (DB 구조 리팩토링)
+
+> 주류 바코드 인식으로 맛/향 정보와 리뷰를 조회·작성할 수 있는 모바일 앱
 
 - **문제 상황**: 주류의 맛/향 데이터가 문자열로 하드코딩되어 있어 새로운 맛/향 추가 시 매번 코드 수정 필요 → 유지보수성과 확장성 저하
 - **해결 방법**:
@@ -51,7 +55,9 @@ Java, Spring 기반으로 프로젝트 경험과 자동화, 안정적 운영 경
 
 
 
-### 3. [무인 공간 대여 시스템](https://github.com/ramgthunder12/SRUS/blob/master/README.md) (문서화 & API 설계 경험)
+### 3. 📦[공간 대여 무인 시스템](https://github.com/ramgthunder12/SRUS/blob/master/README.md) (문서화 & API 설계 경험)
+
+> 사용자가 짐 보관 공간을 예약·결제하고 카드 인증으로 이용할 수 있는 무인 대여 시스템 (관리자는 대여·결제 내역 관리)
 
 - **문제 상황**: 프로젝트 초기, 요구사항 정의와 용어 기준이 불분명해 개발자마다 다른 해석 발생 → 일정 지연 위험
 - **해결 방법**:
@@ -65,7 +71,9 @@ Java, Spring 기반으로 프로젝트 경험과 자동화, 안정적 운영 경
 
 
 
-### 4. [여행 일정 공유 앱](https://github.com/sunmoon-newbins/with/blob/develop/README.md) (공용 DB 구축 경험)
+### 4. ✈️[여행 일정 공유 앱](https://github.com/sunmoon-newbins/with/blob/develop/README.md) (공용 DB 구축 경험)
+
+> 회원이 여행 일정을 등록·공유하고, 다른 회원이 해당 일정에 함께 참여할 수 있는 일정 공유 플랫폼
 
 - **문제 상황**: 해커톤 개발 중 로컬 DB 사용으로 데이터 일관성 문제, 기능 병합 충돌, 협업 지연 발생
 - **해결 방법**:
@@ -93,11 +101,10 @@ Java, Spring 기반으로 프로젝트 경험과 자동화, 안정적 운영 경
 ---
 
 ### 📚 [활동](https://astonishing-archer-8d6.notion.site/PORTFOLI-13122086c5a080418e26d34cc635d060)
-- 전자정부프레임워크 과정 수료
-- MicroSoft Copilot Stack으로 지능형 애플리케이션 개발하기 (미수료)
-- MicroSoft Azure Data & AI 워크숍 수료
-- 메가존 멘토링 수료
-- SW 몰입형 교육 수료
+- 전자정부프레임워크 과정 수료(2025.5)
+- MicroSoft Azure Data & AI 워크숍 수료(2024.12)
+- 메가존 멘토링 수료()
+- SW 몰입형 교육 수료(2020.7 ~ 2020.12)
 
 ---
 
