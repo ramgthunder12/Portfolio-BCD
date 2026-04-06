@@ -105,6 +105,7 @@ Java, Spring 기반으로 프로젝트 경험과 자동화, 안정적 운영 경
 - MicroSoft Azure Data & AI 워크숍 수료 (16 시간)
 - 메가존 멘토링 수료 (6 시간)
 - SW 몰입형 교육 수료 (1240 시간)
+- [백엔드 스터디](https://github.com/easythunder/backend-study-share)
 
 ---
 
